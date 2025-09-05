@@ -13,7 +13,7 @@
 #include "i2c.h"
 #include "car_black_box.h"
 #include "digital_keypad.h"
-#include "at24c04.h"
+#include "eeprom.h"
 #include "timers.h"
 #include "uart.h"
 
